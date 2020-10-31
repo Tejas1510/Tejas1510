@@ -1,4 +1,4 @@
-### Hi, I'm Tejas Tapas, a Web Developer 🚀 from India.
+# Tejas Sudhir Tapas 👨‍💻
 <p>
 <a href=""><img src="https://aleen42.github.io/badges/src/twitter.svg" height=25></a> 
 <a href=""><img src="https://aleen42.github.io/badges/src/medium.svg" height=25></a> 
@@ -8,6 +8,11 @@
  </a> 
 </p>
   
+## Hi there 👋,           
+#### I'm Tejas Tapas, Student at 👨‍💻 Ramdeobaba college Pursuing B.Tech in CSE branch.  I am tech enthusiast, I love to build Full stack Application and currently focusing on React, Material UI and Frontend Frameworks.  
+
+<img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" />  
+
 # Talking about Personal Stuffs:
 
 - 👨🏽‍💻 I’m currently working on **Android and Java**
@@ -31,6 +36,10 @@
  
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Tejas1510&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
 
-![Tejas's github stats](https://github-readme-stats.vercel.app/api?Tejas1510&show_icons=true&theme=radical)
+<a href="https://Tejas1510.github.io">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tejas1510&count_private=true" align="center"/>
+</a>
+<a href="https://Tejas1510.github.io">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas1510&layout=compact" align="center"/>
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas1510&layout=compact)](https://github.com/Tejas1510/Tejas1510)
