@@ -34,7 +34,7 @@
 
  # Stats:
  
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Tejas1510&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
+![Profile View](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Tejas1510&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
 
 <a href="https://Tejas1510.github.io">
   <img src="https://github-readme-stats.vercel.app/api?username=Tejas1510&count_private=true" align="center"/>
