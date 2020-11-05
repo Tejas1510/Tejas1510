@@ -7,6 +7,8 @@
 <a href=""><img src="https://aleen42.github.io/badges/src/stackoverflow.svg" height=25>
  </a> 
 </p>
+ 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tejas1510" alt="harshcsper" /> </p> 
   
 ## Hi there 👋,           
 #### I'm Tejas Tapas, Student at 👨‍💻 Ramdeobaba college Pursuing B.Tech in CSE branch.  I am tech enthusiast, I love to build Full stack Application and currently focusing on React, Material UI and Frontend Frameworks.  
