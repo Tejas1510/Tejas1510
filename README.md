@@ -24,7 +24,7 @@
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: tejasstapas@gmail.com
 - 😄 Pronouns: Web Developer and Android Developer
-- ⚡ Fun fact: I am a Frontend Fan 
+- ⚡ Website : <a href="https://tejastapas.netlify.app/">Tejas Tapas</a>
 
 # Skills:
 
