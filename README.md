@@ -1,4 +1,4 @@
-# Tejas Sudhir Tapas 👨‍💻
+# Tejas Sudhir Tapas 💻
 <p>
 <a href=""><img src="https://aleen42.github.io/badges/src/twitter.svg" height=25></a> 
 <a href=""><img src="https://aleen42.github.io/badges/src/medium.svg" height=25></a> 
