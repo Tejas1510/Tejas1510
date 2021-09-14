@@ -11,7 +11,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tejas1510" alt="Tejas1510" /> </p> 
   
 ## Hi there 👋,           
-#### I'm Tejas Tapas, Student at 👨‍💻 Ramdeobaba college Pursuing B.Tech in CSE branch.  I am tech enthusiast, I love to build Full stack Application and currently focusing on React, Material UI and Frontend Frameworks.  
+#### I'm Tejas Sudhir Tapas, Student at 👨‍💻 Ramdeobaba college Pursuing B.Tech in CSE branch.  I am tech enthusiast, I love to build Full stack Application and currently focusing on React, Material UI and Frontend Frameworks.  
 
 <img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" />  
 
